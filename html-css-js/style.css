@@ -1,0 +1,42 @@
+header div:first-child {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+header ul {
+  display: flex;
+  background-color: blue;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 0px;
+  height: 40px;
+}
+.tin-nhanh div img {
+  width: 200px;
+}
+
+li {
+  list-style-type: none;
+  color: white;
+}
+li:hover {
+  background-color: aqua;
+}
+.border-tron {
+  border: 1px solid white;
+  border-radius: 18px;
+  padding: 8px;
+}
+.tin-nhanh {
+  display: flex;
+}
+main {
+  display: flex;
+  margin-top: 50px;
+}
+.first-div {
+  margin-left: 200px;
+}
+.seccond-child {
+  margin-right: 100px;
+}

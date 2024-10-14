@@ -1,0 +1,10 @@
+D:\BaiTapCongNghe.Net\LinQ\LinQ\bin\Debug\LinQ.exe.config
+D:\BaiTapCongNghe.Net\LinQ\LinQ\bin\Debug\LinQ.exe
+D:\BaiTapCongNghe.Net\LinQ\LinQ\bin\Debug\LinQ.pdb
+D:\BaiTapCongNghe.Net\LinQ\LinQ\obj\Debug\LinQ.csproj.AssemblyReference.cache
+D:\BaiTapCongNghe.Net\LinQ\LinQ\obj\Debug\LinQ.Form1.resources
+D:\BaiTapCongNghe.Net\LinQ\LinQ\obj\Debug\LinQ.Properties.Resources.resources
+D:\BaiTapCongNghe.Net\LinQ\LinQ\obj\Debug\LinQ.csproj.GenerateResource.cache
+D:\BaiTapCongNghe.Net\LinQ\LinQ\obj\Debug\LinQ.csproj.CoreCompileInputs.cache
+D:\BaiTapCongNghe.Net\LinQ\LinQ\obj\Debug\LinQ.exe
+D:\BaiTapCongNghe.Net\LinQ\LinQ\obj\Debug\LinQ.pdb
