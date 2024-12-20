@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EFHv8MauERI=",
+  "dgSpecHash": "NHLRIXphd48=",
   "success": true,
-  "projectFilePath": "D:\\BaiTap.Net\\SanPham\\Server\\Server\\Server.csproj",
+  "projectFilePath": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
