@@ -1,5 +1,11 @@
+using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.DependencyInjection;
+using MongoDB.Driver;
 using Server.DBSettings;
+using Server.Models;
 using Server.Services;
+using Server.Settings;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,7 +21,23 @@ builder.Services.Configure<BookStoreDatabaseSettings>(
 
 builder.Services.AddSingleton<BooksService>();
 builder.Services.AddSingleton<CategoryService>();
+//Identity
+var mongoDbSetting = builder.Configuration.GetSection(nameof(MongoDbConfig)).Get<MongoDbConfig>();
+#pragma warning disable CS8602 // Dereference of a possibly null reference.
+builder.Services.AddIdentity<ApplicationUser, ApplicationRole>(options =>
+{
+    options.Password.RequireDigit = true;
+    options.Password.RequireLowercase = true;
+    options.Password.RequireUppercase = true;
+    options.Password.RequireNonAlphanumeric = false;
+    options.Password.RequiredLength = 6;
+    options.Password.RequiredUniqueChars = 1;
+})
+    .AddMongoDbStores<ApplicationUser, ApplicationRole, Guid>(
+    mongoDbSetting.ConnectionString, mongoDbSetting.Name
+    ).AddDefaultTokenProviders();
 
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
 
 //Add cors
 var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
@@ -25,7 +47,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy(MyAllowSpecificOrigins,
                           policy =>
                           {
-                              policy.WithOrigins("http://localhost:3000")
+                              policy.AllowAnyOrigin()
                                                   .AllowAnyHeader()
                                                   .AllowAnyMethod();
                           });
