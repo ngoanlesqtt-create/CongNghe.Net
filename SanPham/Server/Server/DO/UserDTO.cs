@@ -1,14 +1,14 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Server.Models
+namespace Server.DO
 {
     public class UserDTO
     {
         [Required]
         [EmailAddress]
-        public string email { get; set; }  
+        public string email { get; set; }
 
         [Required]
-        public string password {  get; set; }
+        public string password { get; set; }
     }
 }

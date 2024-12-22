@@ -85,3 +85,11 @@ D:\BaiTap.Net\CongNghe.Net\SanPham\Server\Server\bin\Debug\net8.0\MongoDB.Libmon
 D:\BaiTap.Net\CongNghe.Net\SanPham\Server\Server\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
 D:\BaiTap.Net\CongNghe.Net\SanPham\Server\Server\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
 D:\BaiTap.Net\CongNghe.Net\SanPham\Server\Server\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\BaiTap.Net\CongNghe.Net\SanPham\Server\Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BaiTap.Net\CongNghe.Net\SanPham\Server\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BaiTap.Net\CongNghe.Net\SanPham\Server\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BaiTap.Net\CongNghe.Net\SanPham\Server\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\BaiTap.Net\CongNghe.Net\SanPham\Server\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\BaiTap.Net\CongNghe.Net\SanPham\Server\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BaiTap.Net\CongNghe.Net\SanPham\Server\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\BaiTap.Net\CongNghe.Net\SanPham\Server\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

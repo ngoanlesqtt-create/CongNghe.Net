@@ -9,5 +9,7 @@
         public string BooksCollectionName { get; set; } = null!;
 
         public string CategoryCollection {  get; set; } = null!;
+
+        public string RefreshTokenCollection {  get; set; } = null!;
     }
 }

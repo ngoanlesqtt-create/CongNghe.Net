@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "userDTO",
-        "Type": "Server.Models.UserDTO",
+        "Type": "Server.DO.UserDTO",
         "IsRequired": true
       }
     ],

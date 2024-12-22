@@ -7,16 +7,48 @@
       "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\services\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\services\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\irepository\\irefreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\irepository\\irefreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\dbsettings\\bookstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\dbsettings\\bookstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\models\\returnedlogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\models\\returnedlogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\do\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\do\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,16 +79,8 @@
       "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\settings\\mongodbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\dbsettings\\bookstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|solutionrelative:server\\dbsettings\\bookstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0709F105-E344-42DB-8121-C0D8018A0656}|Server\\Server.csproj|d:\\baitap.net\\congnghe.net\\sanpham\\server\\server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,45 +111,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IRefreshToken.cs",
+              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\IRepository\\IRefreshToken.cs",
+              "RelativeDocumentMoniker": "Server\\IRepository\\IRefreshToken.cs",
+              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\IRepository\\IRefreshToken.cs",
+              "RelativeToolTip": "Server\\IRepository\\IRefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:12:43.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Server\\Models\\RefreshToken.cs",
+              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "Server\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:06:57.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefreshTokenService.cs",
+              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Services\\RefreshTokenService.cs",
+              "RelativeDocumentMoniker": "Server\\Services\\RefreshTokenService.cs",
+              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Services\\RefreshTokenService.cs",
+              "RelativeToolTip": "Server\\Services\\RefreshTokenService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:06:28.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UserDTO.cs",
-              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\UserDTO.cs",
-              "RelativeDocumentMoniker": "Server\\Models\\UserDTO.cs",
-              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\UserDTO.cs",
-              "RelativeToolTip": "Server\\Models\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\DO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Server\\DO\\UserDTO.cs",
+              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\DO\\UserDTO.cs",
+              "RelativeToolTip": "Server\\DO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T16:06:51.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Server\\Models\\User.cs",
-              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\User.cs",
-              "RelativeToolTip": "Server\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "Server\\Services\\BooksService.cs",
+              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Services\\BooksService.cs",
+              "RelativeToolTip": "Server\\Services\\BooksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T14:19:28.285Z",
+              "WhenOpened": "2024-12-20T13:44:53.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Server\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAMwF0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:47:53.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T13:40:39.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:44:15.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Server.http",
+              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Server.http",
+              "RelativeDocumentMoniker": "Server\\Server.http",
+              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Server.http",
+              "RelativeToolTip": "Server\\Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-22T14:19:55.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "MongoDbConfig.cs",
-              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Settings\\MongoDbConfig.cs",
-              "RelativeDocumentMoniker": "Server\\Settings\\MongoDbConfig.cs",
-              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Settings\\MongoDbConfig.cs",
-              "RelativeToolTip": "Server\\Settings\\MongoDbConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T14:06:39.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\UserController.cs",
@@ -142,33 +240,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Program.cs",
-              "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Program.cs",
-              "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAjAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "MongoDbConfig.cs",
+              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Settings\\MongoDbConfig.cs",
+              "RelativeDocumentMoniker": "Server\\Settings\\MongoDbConfig.cs",
+              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Settings\\MongoDbConfig.cs",
+              "RelativeToolTip": "Server\\Settings\\MongoDbConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:44:15.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Server\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Server\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T14:47:53.211Z",
+              "WhenOpened": "2024-12-21T14:06:39.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "BookStoreDatabaseSettings.cs",
+              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\DBSettings\\BookStoreDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "Server\\DBSettings\\BookStoreDatabaseSettings.cs",
+              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\DBSettings\\BookStoreDatabaseSettings.cs",
+              "RelativeToolTip": "Server\\DBSettings\\BookStoreDatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:43:54.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReturnedLoginData.cs",
+              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\ReturnedLoginData.cs",
+              "RelativeDocumentMoniker": "Server\\Models\\ReturnedLoginData.cs",
+              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\ReturnedLoginData.cs",
+              "RelativeToolTip": "Server\\Models\\ReturnedLoginData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:41:23.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Server\\Models\\User.cs",
+              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\User.cs",
+              "RelativeToolTip": "Server\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:19:28.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Role.cs",
               "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Server\\Models\\Role.cs",
@@ -181,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Server\\Models\\Category.cs",
@@ -194,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "BooksController.cs",
               "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\BooksController.cs",
@@ -207,20 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BooksService.cs",
-              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Services\\BooksService.cs",
-              "RelativeDocumentMoniker": "Server\\Services\\BooksService.cs",
-              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Services\\BooksService.cs",
-              "RelativeToolTip": "Server\\Services\\BooksService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:44:53.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\CategoryController.cs",
@@ -233,20 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\appsettings.json",
-              "RelativeDocumentMoniker": "Server\\appsettings.json",
-              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\appsettings.json",
-              "RelativeToolTip": "Server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-20T13:40:39.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Server\\Models\\ApplicationUser.cs",
@@ -259,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "ApplicationRole.cs",
               "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\ApplicationRole.cs",
               "RelativeDocumentMoniker": "Server\\Models\\ApplicationRole.cs",
@@ -272,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Server\\Models\\Book.cs",
@@ -285,20 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BookStoreDatabaseSettings.cs",
-              "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\DBSettings\\BookStoreDatabaseSettings.cs",
-              "RelativeDocumentMoniker": "Server\\DBSettings\\BookStoreDatabaseSettings.cs",
-              "ToolTip": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\DBSettings\\BookStoreDatabaseSettings.cs",
-              "RelativeToolTip": "Server\\DBSettings\\BookStoreDatabaseSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:43:54.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\BaiTap.Net\\CongNghe.Net\\SanPham\\Server\\Server\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "Server\\Services\\CategoryService.cs",
